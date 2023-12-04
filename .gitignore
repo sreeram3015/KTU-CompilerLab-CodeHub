@@ -1,0 +1,9 @@
+# Ignore GCC compiled output
+a.out
+
+# Ignore Lex-generated C code
+lex.yy.c
+
+# Ignore Yacc-generated files
+y.tab.c
+y.tab.h
